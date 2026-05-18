@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- três espadas -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=15&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&width=120&lines=%7C+%7C+%7C" alt="" />
 
 # Matheus · Dev
@@ -31,7 +30,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=1800)](https://github.com/Theuzinkkj)
 
 </div>
 
@@ -47,9 +46,9 @@
 
 Plataforma de controle financeiro pessoal com autenticação, dashboard e gestão de transações em tempo real.
 
-`Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+`React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
 
-🔗 [Atlas](https://finan-as-production-ce44.up.railway.app/)
+🔗 [atlasfinance.mathsouza.online](https://atlasfinance.mathsouza.online)
 
 </td>
 <td width="50%" valign="top">
