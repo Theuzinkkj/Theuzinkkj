@@ -24,6 +24,18 @@
 
 ---
 
+<div align="center"><sub>L I N G U A G E N S</sub></div>
+
+<br/>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=888888&langs_count=6)](https://github.com/Theuzinkkj)
+
+</div>
+
+---
+
 <div align="center"><sub>P R O J E T O S</sub></div>
 
 <br/>
