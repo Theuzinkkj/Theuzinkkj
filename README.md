@@ -24,13 +24,15 @@
 
 ---
 
-<div align="center"><sub>L I N G U A G E N S</sub></div>
+<div align="center"><sub>C O N T A T O</sub></div>
 
 <br/>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=888888&langs_count=6)](https://github.com/Theuzinkkj)
+[![Instagram](https://img.shields.io/badge/Instagram-yeuzth-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/yeuzth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheussouza19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/matheussouza19/)
+[![Gmail](https://img.shields.io/badge/Gmail-souzinha1827272-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:souzinha1827272@gmail.com)
 
 </div>
 
@@ -50,7 +52,7 @@ Plataforma de controle financeiro pessoal com autenticação, dashboard e gestã
 
 `React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
 
-<sub>🔗 [Atlas Finance](https://finan-as-production-ce44.up.railway.app/)</sub>
+<sub>🔗 [atlasfinance.mathsouza.online](https://atlasfinance.mathsouza.online)</sub>
 
 </td>
 <td width="50%" valign="top">
