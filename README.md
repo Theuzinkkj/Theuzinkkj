@@ -1,30 +1,8 @@
-<!--
-  ╔══════════════════════════════════════╗
-  ║   github.com/Theuzinkkj — README     ║
-  ╚══════════════════════════════════════╝
--->
-
 <div align="center">
 
-<!-- bat symbol -->
-<svg width="52" height="28" viewBox="0 0 52 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M26 28 C20 28 14 24 10 18 C6 18 2 20 0 18 C4 14 6 10 8 8 C10 4 14 2 18 4 C20 2 22 0 26 0 C30 0 32 2 34 4 C38 2 42 4 44 8 C46 10 48 14 52 18 C50 20 46 18 42 18 C38 24 32 28 26 28Z" fill="#f0c040"/>
-  <path d="M26 24 C22 24 18 22 16 20 L20 18 C22 20 24 22 26 22 C28 22 30 20 32 18 L36 20 C34 22 30 24 26 24Z" fill="#0d1117"/>
-</svg>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=140&section=header&text=MATHEUS&fontSize=42&fontColor=f0c040&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=13&descColor=555555)
 
-<br/>
-
-# MATHEUS
-
-<sub>F U L L &nbsp; S T A C K &nbsp; D E V E L O P E R</sub>
-
-<br/>
-
-![divider](https://readme-typing-svg.demolab.com?font=Cinzel&size=11&duration=9999&pause=9999&color=f0c040&center=true&vCenter=true&width=40&lines=—)
-
-<br/>
-
-*"Nada acontece sem sacrifício. Cada commit me aproxima do topo."*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=9999&pause=9999&color=f0c040&center=true&vCenter=true&width=440&lines=%22Nada+acontece+sem+sacrif%C3%ADcio.+Cada+commit+me+aproxima+do+topo.%22" alt="quote" />
 
 <br/>
 
@@ -32,25 +10,35 @@
 
 ---
 
-<sub>S T A C K</sub>
+<div align="center"><sub>S T A C K</sub></div>
+
+<br/>
+
+<div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs&theme=dark)](https://skillicons.dev)
 
----
-
-<sub>L I N G U A G E N S</sub>
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=555555&langs_count=6&cache_seconds=1800)](https://github.com/Theuzinkkj)
+</div>
 
 ---
 
-<sub>P R O J E T O S</sub>
+<div align="center"><sub>L I N G U A G E N S</sub></div>
 
 <br/>
 
-<table>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=888888&langs_count=6)](https://github.com/Theuzinkkj)
+
+</div>
+
+---
+
+<div align="center"><sub>P R O J E T O S</sub></div>
+
+<br/>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -81,6 +69,8 @@ Pokédex feita do zero sem IA, consumindo a PokéAPI com vanilla JavaScript.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Theuzinkkj&color=f0c040&style=flat-square&label=visitas" alt="profile views" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=80&section=footer)
+
+<img src="https://komarev.com/ghpvc/?username=Theuzinkkj&color=f0c040&style=flat-square&label=visitas" alt="visitas" />
 
 </div>
