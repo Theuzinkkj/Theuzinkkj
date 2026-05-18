@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=140&section=header&text=MATHEUS&fontSize=42&fontColor=f0c040&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=13&descColor=555555)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=160&section=header&text=MATHEUS&fontSize=42&fontColor=f0c040&fontAlignY=55&desc=Full%20Stack%20Developer%20%C2%B7%20Rocketseat%20%C2%B7%20S%C3%A3o%20Paulo&descAlignY=75&descSize=13&descColor=888888)
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=13&duration=9999&pause=9999&color=f0c040&center=true&vCenter=true&width=440&lines=%22Nada+acontece+sem+sacrif%C3%ADcio.+Cada+commit+me+aproxima+do+topo.%22" alt="quote" />
+<br/>
+
+*"Nada acontece sem sacrifício. Cada commit me aproxima do topo."*
 
 <br/>
 
@@ -17,18 +19,6 @@
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center"><sub>L I N G U A G E N S</sub></div>
-
-<br/>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=888888&langs_count=6)](https://github.com/Theuzinkkj)
 
 </div>
 
