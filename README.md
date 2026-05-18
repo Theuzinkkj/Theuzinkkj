@@ -49,7 +49,7 @@ Plataforma de controle financeiro pessoal com autenticação, dashboard e gestã
 
 `React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
 
-🔗 [atlasfinance.mathsouza.online](https://atlasfinance.mathsouza.online)
+🔗 [Atlas](https://finan-as-production-ce44.up.railway.app/))
 
 </td>
 <td width="50%" valign="top">
