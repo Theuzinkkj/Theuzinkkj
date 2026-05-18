@@ -1,63 +1,75 @@
 <div align="center">
 
-# Oi! Eu sou o Matheus 👾
+<!-- três espadas -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=15&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&width=120&lines=%7C+%7C+%7C" alt="" />
 
-### 🚀 Desenvolvedor Full Stack em formação
+# Matheus · Dev
 
-Estudando na **Rocketseat** · Construindo projetos desde cedo · Apaixonado por Pokémon
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=440&lines=Full+Stack+em+forma%C3%A7%C3%A3o+%C2%B7+Rocketseat+%C2%B7+S%C3%A3o+Paulo" alt="subtitle" />
 
-</div>
+<br/>
 
----
+> *"Nada acontece sem sacrifício. Cada commit me aproxima do topo."*
 
-### 🛠️ Tecnologias que uso
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark)](https://skillicons.dev)
+<br/>
 
 </div>
 
 ---
 
-### 📚 Aprendendo agora
+### Stack
 
-<div align="center">
+<div align="left">
 
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-### 📊 Linguagens mais usadas
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [🔴 Pokédex](https://github.com/Theuzinkkj/Pok-dex) | Pokédex feita do zero sem IA, consumindo a PokéAPI | `HTML` `CSS` `JavaScript` |
-
----
-
-### 📬 Contato
+### Linguagens mais usadas
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Theuzinkkj-181717?style=for-the-badge&logo=github)](https://github.com/Theuzinkkj)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuzinkkj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
 
 </div>
 
 ---
 
+### Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💰 Atlas Finance** &nbsp; ![live](https://img.shields.io/badge/ao%20vivo-3fb950?style=flat-square&labelColor=0d1117)
+
+Plataforma de controle financeiro pessoal com autenticação, dashboard e gestão de transações em tempo real.
+
+`React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+
+🔗 [atlasfinance.mathsouza.online](https://atlasfinance.mathsouza.online)
+
+</td>
+<td width="50%" valign="top">
+
+**⚔️ Pokédex** &nbsp; ![open source](https://img.shields.io/badge/open%20source-484f58?style=flat-square&labelColor=0d1117)
+
+Pokédex feita do zero sem IA, consumindo a PokéAPI com vanilla JavaScript.
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `PokéAPI`
+
+🔗 [github.com/Theuzinkkj/Pok-dex](https://github.com/Theuzinkkj/Pok-dex)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Theuzinkkj&color=58a6ff&style=flat-square" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=Theuzinkkj&color=1f6a2a&style=flat-square&label=visitas" alt="profile views" />
+
 </div>
