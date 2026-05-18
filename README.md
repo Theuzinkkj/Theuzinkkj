@@ -30,9 +30,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-yeuzth-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/yeuzth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheussouza19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/matheussouza19/)
-[![Gmail](https://img.shields.io/badge/Gmail-souzinha1827272-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:souzinha1827272@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yeuzth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussouza19/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:souzinha1827272@gmail.com)
 
 </div>
 
@@ -50,9 +50,9 @@
 
 Plataforma de controle financeiro pessoal com autenticação, dashboard e gestão de transações em tempo real.
 
-`React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+`Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
 
-<sub>🔗 [atlasfinance.mathsouza.online](https://atlasfinance.mathsouza.online)</sub>
+<sub>🔗 [Atlas Finance](https://finan-as-production-ce44.up.railway.app/)</sub>
 
 </td>
 <td width="50%" valign="top">
