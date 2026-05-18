@@ -50,7 +50,7 @@
 
 Plataforma de controle financeiro pessoal com autenticação, dashboard e gestão de transações em tempo real.
 
-`Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+`Node.js` &nbsp; `JavaScript Puro` &nbsp; `Supabase`
 
 <sub>🔗 [Atlas Finance](https://finan-as-production-ce44.up.railway.app/)</sub>
 
