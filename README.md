@@ -47,9 +47,9 @@
 
 Plataforma de controle financeiro pessoal com autenticação, dashboard e gestão de transações em tempo real.
 
-`React` &nbsp; `Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+`Node.js` &nbsp; `TypeScript` &nbsp; `Supabase`
 
-🔗 [Atlas](https://finan-as-production-ce44.up.railway.app/))
+🔗 [Atlas](https://finan-as-production-ce44.up.railway.app/)
 
 </td>
 <td width="50%" valign="top">
